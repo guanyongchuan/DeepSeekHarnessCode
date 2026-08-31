@@ -1,0 +1,11 @@
+{
+  "name": "chapter-05-cordis-examples",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "第五章 Cordis 机制最小可运行示例,已实际运行验证",
+  "dependencies": {
+    "@deepseek-ai/cordis": "4.0.1",
+    "@deepseek-ai/cosmokit": "1.8.2",
+    "@standard-schema/spec": "1.1.0"
+  }
+}

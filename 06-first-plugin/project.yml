@@ -1,0 +1,10 @@
+# 示例配置文件,project-summary-plugin.ts 默认读取的就是这份文件(相对路径 ./project.yml)。
+frontend:
+  owner: 张伟
+  status: 开发中
+backend:
+  owner: 李娜
+  status: 联调中
+infra:
+  owner: 王强
+  status: 已上线
